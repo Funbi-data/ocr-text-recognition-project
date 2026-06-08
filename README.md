@@ -42,7 +42,7 @@ The application allows users to upload images containing text, extract the text 
 
 ### Home Page
 
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/homepage.png)
 
 ---
 
